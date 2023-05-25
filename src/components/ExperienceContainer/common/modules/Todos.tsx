@@ -1,4 +1,4 @@
-import PlaylistAddCheckOutlinedIcon from '@material-ui/icons/PlaylistAddCheckOutlined';
+import PlaylistAddCheckOutlinedIcon from '@mui/icons-material/PlaylistAddCheckOutlined';
 import React from 'react';
 
 import { CommonArticleContainer, CommonArticleContainerTitle } from '../../styled';

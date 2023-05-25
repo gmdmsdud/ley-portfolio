@@ -1,9 +1,6 @@
-import Accordion from '@material-ui/core/Accordion';
-import AccordionDetails from '@material-ui/core/AccordionDetails';
-import AccordionSummary from '@material-ui/core/AccordionSummary';
-import Typography from '@material-ui/core/Typography';
-import BorderColorOutlinedIcon from '@material-ui/icons/BorderColorOutlined';
-import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
+import BorderColorOutlinedIcon from '@mui/icons-material/BorderColorOutlined';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import { Accordion, AccordionDetails, AccordionSummary, Typography } from '@mui/material';
 import React from 'react';
 
 import { CommonArticleContainer, CommonArticleContainerTitle } from '../../styled';

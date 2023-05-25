@@ -1,4 +1,4 @@
-import { useMediaQuery } from '@material-ui/core';
+import { useMediaQuery } from '@mui/material';
 import Head from 'next/head';
 import React from 'react';
 import styled from 'styled-components';

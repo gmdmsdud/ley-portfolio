@@ -1,4 +1,4 @@
-import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
+import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 import React, { useCallback } from 'react';
 import styled from 'styled-components';
 

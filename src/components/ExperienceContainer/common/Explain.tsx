@@ -1,4 +1,4 @@
-import CheckIcon from '@material-ui/icons/Check';
+import CheckIcon from '@mui/icons-material/Check';
 import React from 'react';
 import styled from 'styled-components';
 

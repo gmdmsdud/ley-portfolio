@@ -10,8 +10,10 @@
     "eslint": "eslint ./src --ext .ts,.tsx,.js,.jsx --cache"
   },
   "dependencies": {
-    "@material-ui/core": "^4.12.3",
-    "@material-ui/icons": "^4.11.2",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.0.0",
     "@types/lodash": "^4.14.172",
     "@types/smoothscroll-polyfill": "^0.3.1",
     "babel-plugin-styled-components": "^1.13.1",
@@ -21,10 +23,11 @@
     "next": "11.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-parallax-tilt": "^1.5.54",
+    "react-is": "^16.8",
+    "react-parallax-tilt": "^1.7.141",
     "scheduler": "^0.20.2",
     "smoothscroll-polyfill": "^0.4.4",
-    "styled-components": "^5.1.11",
+    "styled-components": "5.3.10",
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {

@@ -1,4 +1,4 @@
-import KeyboardArrowDownIcon from '@material-ui/icons/KeyboardArrowDown';
+import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import styled from 'styled-components';
 
 import { BOLD_TEXT } from '#/constants';
@@ -98,7 +98,7 @@ export const Main = styled.article`
   // align-items: center;
   width: 80vw;
   height: 100%;
-  margin-left: 100px;
+  margin-left: 70px;
 
   @media ${props => props.theme.tablet} {
     width: 100vw;
