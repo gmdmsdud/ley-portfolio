@@ -95,9 +95,10 @@ export const Main = styled.article`
   position: relative;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  // align-items: center;
   width: 80vw;
   height: 100%;
+  margin-left: 100px;
 
   @media ${props => props.theme.tablet} {
     width: 100vw;
@@ -138,11 +139,13 @@ export const BodyTextContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  // align-items: center;
+  margin: 30px;
 `;
 
 export const BodyText = styled.span`
   font-size: 30px;
+  margin-bottom: 10px;
 
   @media ${props => props.theme.tablet} {
     font-size: 23px;

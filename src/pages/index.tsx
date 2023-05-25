@@ -23,7 +23,7 @@ export default function Main() {
         {/* HTML Meta Tags */}
         <title>이은영 포트폴리오</title>
         <meta name="description" content="최고의 프론트엔드 개발자를 꿈꾸는 이은영의 포트폴리오입니다." />
-        <meta name="google-site-verification" content={process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION_KEY} />
+
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1 maximum-scale=1, user-scalable=no" />
       </Head>
       <main>

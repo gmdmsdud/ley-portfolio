@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Explain, InlineLinkText, Links, Skills } from '../../common';
+import { Explain, Links, Skills } from '../../common';
 import * as Styled from '../../styled';
 import EXPLAIN from './explains';
 
