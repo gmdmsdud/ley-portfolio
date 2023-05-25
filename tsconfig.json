@@ -19,7 +19,8 @@
     "target": "esnext",
     "baseUrl": ".",
     "paths": {
-      "#/*": ["./src/*"]
+      "#/*": ["./src/*"],
+      "react": [ "./node_modules/@types/react" ]
     }
   },
   "include": ["next-env.d.ts", "next.config.js", "**/*.ts", "**/*.tsx", "pages/**/*", "src/**/*.ts", "src/**/*.tsx"],
