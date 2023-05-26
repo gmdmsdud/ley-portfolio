@@ -30,7 +30,7 @@ const ReactSeasonComponent = () => {
   return (
     <Styled.ExperienceCard>
       <Styled.ExperienceCardTitleType>개인 프로젝트</Styled.ExperienceCardTitleType>
-      <Styled.ExperienceCardTitle id="graphql을 이용한 홈페이지">
+      <Styled.ExperienceCardTitle id="graphql을이용한홈페이지">
         <InlineLinkText href="https://myhome5-pbg12k9ea-gmdmsdud.vercel.app/">graphql을 이용한 홈페이지</InlineLinkText>
       </Styled.ExperienceCardTitle>
 
@@ -40,7 +40,7 @@ const ReactSeasonComponent = () => {
         <Explain>openapi를 이용해 사진불러오기</Explain>
         <Explain>이미지업로드, 검색기능 구현</Explain>
       </Styled.ExperienceCardExplainContainer>
-      <video controls>
+      <video autoPlay controls>
         <source src="myhome.mp4" type="video/mp4" />
         <track src="captions_en.vtt" kind="captions" srcLang="en" label="english_captions" />
       </video>

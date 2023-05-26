@@ -10,7 +10,7 @@ const LINKS = [
     href: 'http://ec2-13-125-0-236.ap-northeast-2.compute.amazonaws.com/',
   },
   {
-    text: '깃허브',
+    text: 'GitHub Repository',
     href: 'https://github.com/gmdmsdud/reddit3/  ',
   },
 ];
@@ -30,8 +30,8 @@ const MyTechBlog = () => {
   return (
     <Styled.ExperienceCard>
       <Styled.ExperienceCardTitleType>개인 프로젝트</Styled.ExperienceCardTitleType>
-      <Styled.ExperienceCardTitle id="이은영-기술-블로그-개발">자영업 사장님</Styled.ExperienceCardTitle>
-      <Styled.ExperienceCardPeriod>2022년 3월 - 1인 개발</Styled.ExperienceCardPeriod>
+      <Styled.ExperienceCardTitle id="자영업사장님">자영업 사장님</Styled.ExperienceCardTitle>
+      <Styled.ExperienceCardPeriod>2023년 3월 - 1인 개발</Styled.ExperienceCardPeriod>
       <Styled.ExperienceCardExplainContainer>
         <Explain>자유로운 토론, 정보공유를 위한 게시판 개발</Explain>
         <Explain>반응형 웹페이지</Explain>

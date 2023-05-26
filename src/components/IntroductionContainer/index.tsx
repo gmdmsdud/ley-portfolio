@@ -2,7 +2,7 @@ import React from 'react';
 
 import { UNDER_LINE_COLOR } from '#/colors';
 import { FadeInBodyText, FadeInContent, FadeInHeaderText, Underline } from '#/components/gsap';
-import YellowPoint from '#/components/YellowPoint';
+import YellowPoint from '#/components/MintPoint';
 import { LAST_UPDATED } from '#/constants';
 
 import * as Styled from './styled';

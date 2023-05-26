@@ -56,7 +56,7 @@ export const Link = styled.a`
   text-align: left;
   padding: 10px;
 
-  background: linear-gradient(to right, transparent 50%, rgb(248, 205, 7) 50%);
+  background: linear-gradient(to right, transparent 50%, #7bd8a5 50%);
   background-size: 200%;
   background-position: 0 0;
 

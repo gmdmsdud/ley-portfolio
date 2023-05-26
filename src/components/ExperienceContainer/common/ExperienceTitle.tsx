@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import YellowPoint from '#/components/YellowPoint';
+import YellowPoint from '#/components/MintPoint';
 import { BOLD_TEXT } from '#/constants';
 
 const StyledExperienceTitle = styled.h1`

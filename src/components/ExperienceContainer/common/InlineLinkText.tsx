@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const ExplainLinkText = styled.a`
-  background: linear-gradient(to right, transparent 50%, rgb(255, 218, 55) 50%);
+  background: linear-gradient(to right, transparent 50%, #7bd8a5 50%);
   background-size: 200%;
   background-position: 0 0;
 
