@@ -1,4 +1,4 @@
-import LinkIcon from '@mui/icons-material/Link';
+import LinkIcon from '@material-ui/icons/Link';
 import React from 'react';
 import styled from 'styled-components';
 

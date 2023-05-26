@@ -1,4 +1,4 @@
-import FiberManualRecordOutlinedIcon from '@mui/icons-material/FiberManualRecordOutlined';
+import FiberManualRecordOutlinedIcon from '@material-ui/icons/FiberManualRecordOutlined';
 import React from 'react';
 import styled from 'styled-components';
 

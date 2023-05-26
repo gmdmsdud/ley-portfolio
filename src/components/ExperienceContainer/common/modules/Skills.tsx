@@ -1,6 +1,6 @@
-import BorderColorOutlinedIcon from '@mui/icons-material/BorderColorOutlined';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import { Accordion, AccordionDetails, AccordionSummary, Typography } from '@mui/material';
+import { Accordion, AccordionDetails, AccordionSummary, Typography } from '@material-ui/core';
+import BorderColorOutlinedIcon from '@material-ui/icons/BorderColorOutlined';
+import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import React from 'react';
 
 import { CommonArticleContainer, CommonArticleContainerTitle } from '../../styled';

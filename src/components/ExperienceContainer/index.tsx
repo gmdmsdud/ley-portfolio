@@ -1,4 +1,4 @@
-import { useMediaQuery } from '@mui/material';
+import { useMediaQuery } from '@material-ui/core';
 import React from 'react';
 
 import { FadeInContent } from '#/components/gsap';

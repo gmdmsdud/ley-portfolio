@@ -1,4 +1,4 @@
-import CheckIcon from '@mui/icons-material/Check';
+import CheckIcon from '@material-ui/icons/Check';
 import React, { useMemo } from 'react';
 import styled from 'styled-components';
 

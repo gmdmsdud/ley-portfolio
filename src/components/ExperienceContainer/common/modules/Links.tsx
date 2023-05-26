@@ -1,5 +1,4 @@
-import LinkIcon from '@mui/icons-material/Link';
-import React from 'react';
+import LinkIcon from '@material-ui/icons/Link';
 import styled from 'styled-components';
 
 import { CommonArticleContainer, CommonArticleContainerTitle } from '../../styled';
