@@ -31,7 +31,7 @@ const MyTechBlog = () => {
     <Styled.ExperienceCard>
       <Styled.ExperienceCardTitleType>개인 프로젝트</Styled.ExperienceCardTitleType>
       <Styled.ExperienceCardTitle id="자영업사장님">자영업 사장님</Styled.ExperienceCardTitle>
-      <Styled.ExperienceCardPeriod>2023년 3월 - 1인 개발</Styled.ExperienceCardPeriod>
+
       <Styled.ExperienceCardExplainContainer>
         <Explain>자유로운 토론, 정보공유를 위한 게시판 개발</Explain>
         <Explain>반응형 웹페이지</Explain>
@@ -39,7 +39,7 @@ const MyTechBlog = () => {
         <Explain>aws(ec2)배포</Explain>
       </Styled.ExperienceCardExplainContainer>
       <video autoPlay controls>
-        <source src="myboard.mp4" type="video/mp4" />
+        <source src="sub.mp4" type="video/mp4" />
         <track src="captions_en.vtt" kind="captions" srcLang="en" label="english_captions" />
       </video>
       <Links links={LINKS} />
