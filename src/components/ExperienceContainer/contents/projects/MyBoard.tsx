@@ -39,7 +39,7 @@ const MyTechBlog = () => {
         <Explain>aws(ec2)배포</Explain>
       </Styled.ExperienceCardExplainContainer>
       <video autoPlay controls>
-        <source src="sub.mp4" type="video/mp4" />
+        <source src="myboard.mp4" type="video/mp4" />
         <track src="captions_en.vtt" kind="captions" srcLang="en" label="english_captions" />
       </video>
       <Links links={LINKS} />
